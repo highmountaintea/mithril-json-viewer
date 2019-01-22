@@ -6,6 +6,8 @@ Collapsable JSON viewer for mithril.js
 
 This package renders a JSON object in an interactive way, allowing user to expand/collapse each nested tree node.
 
+You can view an example [here](https://hungry-raman-deb8e1.netlify.com/).
+
 ## Usage
 
 * requires mithril.js `npm install mithril`
