@@ -1,0 +1,9 @@
+# Dependency directories
+node_modules/
+
+# build folders
+build/
+lib/
+
+# dotenv environment variables file
+.env

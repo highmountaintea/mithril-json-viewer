@@ -1,0 +1,24 @@
+{
+  "name": "mithril-json-viewer",
+  "version": "0.1.0",
+  "description": "Collapsable JSON viewer for mithril.js",
+  "main": "index.js",
+  "scripts": {
+    "check-es5": "es-check --module es5 ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/highmountaintea/mithril-json-viewer.git"
+  },
+  "author": "highmountaintea",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/highmountaintea/mithril-json-viewer/issues"
+  },
+  "homepage": "https://github.com/highmountaintea/mithril-json-viewer#readme",
+  "devDependencies": {
+    "es-check": "^5.0.0",
+    "mithril": "^1.1.6"
+  }
+}
