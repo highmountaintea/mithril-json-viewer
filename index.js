@@ -1,4 +1,4 @@
-var m = require('mithril');
+var m = require('mithril').m;
 
 function renderCollapsed(propStr, isArray, pathStr, statusLookup) {
   return m('div', [

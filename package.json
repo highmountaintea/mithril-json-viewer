@@ -1,6 +1,6 @@
 {
   "name": "mithril-json-viewer",
-  "version": "1.0.2",
+  "version": "2.0.0-rc.2",
   "description": "Collapsable JSON viewer for mithril.js",
   "main": "index.js",
   "scripts": {
@@ -19,6 +19,6 @@
   "homepage": "https://github.com/highmountaintea/mithril-json-viewer#readme",
   "devDependencies": {
     "es-check": "^5.0.0",
-    "mithril": "^1.1.6"
+    "mithril": "^2.0.0-rc.3"
   }
 }
