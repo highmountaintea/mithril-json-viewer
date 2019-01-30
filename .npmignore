@@ -4,7 +4,13 @@ node_modules/
 # build folders
 build/
 lib/
-dist/
+
+# docs and sample folders
+docs/
+sample/
+
+# webpack
+webpack.config.js
 
 # dotenv environment variables file
 .env
