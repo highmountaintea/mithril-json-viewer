@@ -16,7 +16,7 @@ const tree = {
 };
 
 function view() {
-  return m('div', { class: 'json-tree',  style: 'font-family: Courier;' },
+  return m('div', { class: 'json-tree' },
     m(JsonViewer, { tree: tree, options: { collapseAfter: 1 } }),
   );
 }
