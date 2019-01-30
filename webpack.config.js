@@ -13,7 +13,7 @@ let config = {
     libraryTarget: "window",
   },
   externals: {
-    mithril: "mithril",
+    m: "mithril",
   },
 };
 
