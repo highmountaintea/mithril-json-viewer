@@ -50,12 +50,12 @@ function renderTree(prop, tree, paths, statusLookup, collapseAfter) {
 
 module.exports = function JsonViewer(initialVnode) {
   var attrs = initialVnode.attrs;
-  var tree = attrs.tree;
   var options = attrs.options || {};
   var statusLookup = {};
 
   return {
     view: function(vnode) {
+      var tree = vnode.attrs.tree;
       return renderTree(null, tree, [], statusLookup, options.collapseAfter);
     }
   };
