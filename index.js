@@ -1,4 +1,4 @@
-var m = require('mithril').m;
+var m = require('mithril'); if (typeof m !== 'function') m = m.default;
 
 function renderCollapsed(propStr, isArray, pathStr, statusLookup) {
   return m('div', [
