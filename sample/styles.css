@@ -1,7 +1,13 @@
+.json-tree {
+  white-space: pre-wrap;
+  font-family: Courier;
+}
+
 .json-tree div {
   margin-left: 20px;
 }
 
 .json-tree button {
+  font-family: Courier;
   font-size: 50%;
 }
