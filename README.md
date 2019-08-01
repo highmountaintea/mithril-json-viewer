@@ -10,12 +10,12 @@ You can view an example [here](https://hungry-raman-deb8e1.netlify.com/).
 
 ![Sample Image](https://raw.githubusercontent.com/highmountaintea/mithril-json-viewer/master/docs/sample-tree.png)
 
-## Usage
+## Installation
 
-* requires mithril.js `npm install mithril` (mithril 1.x) or `npm install mithril@next` (mithril 2.x-rc)
-* Install this package:
-  * if you are using mithril 1.x, do: `npm install mithril-json-viewer`
-  * if you are using mithril 2.x-rc, do: `npm install mithril-json-viewer@next`
+`mithril` is a required peer dependency, so install both `mithril` and `mithril-json-viewer`:
+```
+npm install mithril mithril-json-viewer
+```
 
 Sample usage:
 ```js
