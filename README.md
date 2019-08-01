@@ -8,14 +8,14 @@ This package renders a JSON object in an interactive way, allowing user to expan
 
 You can view an example [here](https://hungry-raman-deb8e1.netlify.com/).
 
-![Sample Image](https://raw.githubusercontent.com/highmountaintea/mithril-json-viewer/master/sample-tree.png)
+![Sample Image](https://raw.githubusercontent.com/highmountaintea/mithril-json-viewer/master/docs/sample-tree.png)
 
 ## Usage
 
-* requires mithril.js `npm install mithril`
-* `npm install mithril-json-viewer`
-
-* note: `mithril-json-viewer@next` provides mithril 2.0 compatible version
+* requires mithril.js `npm install mithril` (mithril 1.x) or `npm install mithril@next` (mithril 2.x-rc)
+* Install this package:
+  * if you are using mithril 1.x, do: `npm install mithril-json-viewer`
+  * if you are using mithril 2.x-rc, do: `npm install mithril-json-viewer@next`
 
 Sample usage:
 ```js
