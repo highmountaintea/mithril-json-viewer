@@ -1,6 +1,6 @@
 {
   "name": "mithril-json-viewer",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Collapsable JSON viewer for mithril.js",
   "main": "index.js",
   "scripts": {
