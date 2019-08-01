@@ -19,6 +19,6 @@
   "homepage": "https://github.com/highmountaintea/mithril-json-viewer#readme",
   "devDependencies": {
     "es-check": "^5.0.0",
-    "mithril": "^2.0.0-rc.3"
+    "mithril": "^2.0.3"
   }
 }
